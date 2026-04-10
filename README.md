@@ -28,3 +28,8 @@ Javaで作成した数当てゲームです。
 - 入力値のチェック（範囲外の数値対応）
 - 難易度選択機能の追加
 - GUI化（画面操作）への拡張
+
+## その他の作品
+
+- [じゃんけんゲーム](https://github.com/tenpule/Janken)
+- [メニューアプリ](https://github.com/tenpule/SimpleMenuApp)
